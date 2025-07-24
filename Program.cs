@@ -7,8 +7,7 @@ namespace Exercises
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(NumberOfStepsToReduceANumberToZero.Solution(14));
-            Console.WriteLine(NumberOfStepsToReduceANumberToZero.Solution(8));
+            
         }
     }
 }
